@@ -9,10 +9,10 @@ Social constructs created by the so called able bodied must be disrupted. An equ
 
 A small step in the right direction, can bring humongous changes. Let’s bring this change by learning the basics of braille and sign language. Click on the images to learn more.
 
-## Basics of sign language from [dummy.com](dummy.com) 
+## Basics of sign language from [dummies.com](https://www.dummies.com/languages/american-sign-language/signing-for-dummies-cheat-sheet/) 
 
 ![sign-language]( /assets/images/sign-language.jpg "sign language")
 
-## Basics of braille from [omniglot.com](omniglot.com)
+## Basics of braille from [omniglot.com](https://omniglot.com/writing/braille.htm)
 
 ![braille]( /assets/images/braille.gif "braille")
