@@ -9,4 +9,4 @@ layout: home
 ---
 
 This website is an initiative to spread knowledge about Ableism, the different ways in which it manifests itself in the world,
-its impact in creating discrimination against disabled people and how even unknowingly you maybe partaking in it.
+its impact in creating discrimination against people with disability and how even unknowingly you maybe partaking in it.
