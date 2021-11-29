@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hero narrative"
+title:  "Objectification of people with disablity"
 date:   2021-11-21 13:10:04 +0530
 categories: jekyll update
 author: "Dhruv Desai"
