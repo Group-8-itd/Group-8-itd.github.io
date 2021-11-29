@@ -6,8 +6,6 @@ categories: jekyll update
 author: "Ashwin Olakangal"
 ---
 
-## Ableism in sports
-
 Ableism refers to discrimination and social prejudice against disabled people, this embodies itself in the real world by treatment of able-bodied people as superior in comparison.  Note the careful distinction between ableism and disablism, which refers to having negative opinion of disabled people.
 
 We often hear about the extraordinary efforts that a disablied athelte had to go through in order to win a competition, the narrative is focused more on their disability that they had to "overcome" rather than on the efforts that they did to outperform their competition.

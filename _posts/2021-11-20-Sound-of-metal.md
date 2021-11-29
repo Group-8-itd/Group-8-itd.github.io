@@ -5,6 +5,7 @@ date:   2021-11-20 13:10:04 +0530
 categories: jekyll update
 author: "Arnav Kukreja"
 ---
+
 Being a person with disabilities is not a weakness, but just a small obstacle. Its not something to be ashamed about, but an identity to be embraced. The movie “Sound of Metal” – directed by Darius Marder and storied by Derek Cianfrance, changed our perception and may change yours too.
 
 It beautifully explains the idea when Ruben the protagonist started to loose his hearing – struggled with the societal perception of being a deaf metal music artist. The movie started with the struggle and ended with acceptance.

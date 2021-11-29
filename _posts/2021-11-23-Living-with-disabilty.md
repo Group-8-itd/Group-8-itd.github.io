@@ -5,7 +5,6 @@ date:   2021-11-23 13:10:04 +0530
 categories: jekyll update
 author: "Ashish Verma"
 ---
-## Living with Disability in modern society
 
 The system of ableism is fighting for disabled in this current world. The living reality of ableism is that not every disability is visible. The use of ableist language happens every day. It has become so embedded in our conscience that we hardly even think about it.
 

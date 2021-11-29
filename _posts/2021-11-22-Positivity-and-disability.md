@@ -5,7 +5,6 @@ date:   2021-11-22 13:10:04 +0530
 categories: jekyll update
 author: "Ashish Verma"
 ---
-## When it comes to positivity, Ableism is always left out
 
 People don't question the beliefs and attitudes that relegate people with disability as lesser and inferior. Ableism is rife in our community, and all too easy to excuse. 
 

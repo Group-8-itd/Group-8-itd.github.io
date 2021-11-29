@@ -5,8 +5,7 @@ date:   2021-11-17 13:10:04 +0530
 categories: jekyll update
 author: "Rudransh Vyas"
 ---
-
-## What is ableism?1 : 
+ 
 Ableism is a cultural disorder that can affect people’s language and communication skills, social relationships, and other interpersonal behaviors.
 
 Symptoms may include:

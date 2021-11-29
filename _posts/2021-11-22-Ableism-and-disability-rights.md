@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Ableism and disability rights"
+title:  "Ableism and disability rights: How one can make a difference"
 date:   2021-11-22 13:10:04 +0530
 categories: jekyll update
 author: "Ashish Verma"
 ---
-## Ableism and disability rights- How one can make a difference
 
 Ableism is a type of discrimination against disabled people, or in favour of able-bodied people, which can take many forms. While expressed hatred and denial of accessibility are commonly observed discriminatory conduct, ableism includes less-obvious actions as well. Ableism is all around us. 
 
