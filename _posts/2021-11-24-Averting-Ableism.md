@@ -22,4 +22,8 @@ The R-Word is now used as a derogatory term and an insult. The word now is a ter
 This word was used to describe people who have an intellectual disability, and as the term is being used in a derogatory and hurtful way, it gives the impression that the person using it thinks that people with disabilities are lesser than, therefore it is ableist. 
 
 To simply remove this word from your vocabulary or to use it very carefully can make a difference to growing as a person and improving the social construct of disabled people’s lives.
+
+![r-word]( /assets/images/r-word.png)
+
+[image source](https://scontent.fbho1-1.fna.fbcdn.net/v/t15.5256-10/s1080x2048/27255872_540012759714470_4342182352521265152_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=ad6a45&_nc_ohc=slVu9tyOztYAX9LhtWl&_nc_ht=scontent.fbho1-1.fna&oh=408f94de5bd1237ac11740b3c8187d87&oe=61AA42EE)
  

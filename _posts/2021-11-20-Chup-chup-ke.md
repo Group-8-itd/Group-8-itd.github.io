@@ -15,6 +15,6 @@ The film ends with Jeet’s (lead actor) former fiancé wanting him to marry Shr
 
 ![Chup-Chup-ke]( /assets/images/chup-chup-ke.jpg "Poster: Chup Chup ke")
 
-Image From: https://www.bollywoodhungama.com/
+[Image Source](https://www.bollywoodhungama.com/)
 
 The image includes a few characters from the film, all with their index finger on their lips, signing to keep quiet.

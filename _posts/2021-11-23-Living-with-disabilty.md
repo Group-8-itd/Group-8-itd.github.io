@@ -15,3 +15,5 @@ Language can also be a tool of oppression. As self-ware individuals, we should b
 The living reality of our society is that it can sometimes be insensitive. It reeks of casual but sure discrimination. Yet unlike other types of discrimination, ableism is so subtle that we see it every day but we do not even know as we have become desensitised to it. Rather, we contribute to it without even realising it.
 
 ![living-with-disability]( /assets/images/living-with-disability.jpg)
+
+[image source](https://live-production.wcms.abc-cdn.net.au/c0e46ab5dfbf93237c24793c4805b319?impolicy=wcms_crop_resize&cropH=1069&cropW=1898&xPos=16&yPos=0&width=862&height=485)

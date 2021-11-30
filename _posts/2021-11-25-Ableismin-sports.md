@@ -8,15 +8,24 @@ author: "Ashwin Olakangal"
 
 Ableism refers to discrimination and social prejudice against people with disability, this embodies itself in the real world by treatment of able-bodied people as superior in comparison.  Note the careful distinction between ableism and disablism, which refers to having negative opinion of disabled people.
 
-We often hear about the extraordinary efforts that a disablied athelte had to go through in order to win a competition, the narrative is focused more on their disability that they had to "overcome" rather than on the efforts that they did to outperform their competition.
+We often hear about the extraordinary efforts that a para-athelte had to go through in order to win a competition, the narrative is focused more on their disability that they had to "overcome" rather than on the efforts that they did to outperform their competition.
 
 This distinction is very important and an example of how ableism is so deep rooted in our society that we think that a disabled person living his
 life to the fullest is somehow able to fulfil a shortcoming when infact they are just like us. 
 
 The way our society is currently structured, it is clear that it favors able-bodied individual. In Sports, there is clear distinction between the limited accessibility and availability of training facility for disabled people compared to their able bodied counter-parts.
 
-In 2015, National Para-Atheltic championship was organized in India which was poorly managed by increased number of athletes and poor funding 
-for the program, this national level mismanagement was not even highlihgted by media. Such a disaster if faced by so called "able-bodied" athletes would be a national news for weeks.
+In 2015, National Para-Atheltic championship was organized in India which was poorly managed with an increase in the number of athletes participating and poor funding for the program, leading to poor lodging facilities with many not even having their own bathrooms. Such a disaster if faced by so called "able-bodied" athletes would be a national news for weeks.
 
-Same goes for the poor funding and training facility that para-athletes have to put up with because the government is more concerned 
-in proving funding to other athletes.
+A lot of sporting federations in India do not conduct competitions for para-athletes, leading to even more difficulty in preparing for international competitions and events. 
+
+This distinction is further highlighted by the fact that besides a funding of Rs.765 crores done under Target Olympic Podium Scheme(TOPS) only an addditional Rs.8.2 crores was spent on para-athletes from 2018-19 to 2021-22. In comparison the sports budget for the year 2021 alone was Rs.2,596.14 crores.
+
+It is clear that a lot more needs to be done in order to bring para-athletes to the same level of training, competition, and accessibility that
+their able-bodied counter-parts enjoy.
+
+![r-word]( /assets/images/Paralympics.jpg)
+
+[image source](https://indianexpress.com/article/sports/sport-others/meet-indias-19-tokyo-paralympics-medallists-7491756/)
+
+The indian Paralympic contingent at Tokyo-2020

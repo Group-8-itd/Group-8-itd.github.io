@@ -15,3 +15,5 @@ People are not defined by a single trait of their physical appearance or by a so
 An autistic child deserves the same empathy and love like any other child. However, their stories are so underrepresented, their voices are suppressed by unwanted pity party, that the only time they are shown in positive light is when they become ‘inspiring stories’ after fighting against a system that is designed for their exclusion.
 
 ![Positivity-and-disability]( /assets/images/positivity.png)
+
+[image source](https://rehabpub.com/industry-news/research/study-sheds-light-ableism-biases-toward-people-disabilities/)

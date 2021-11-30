@@ -13,3 +13,5 @@ Many televisions shows and movies have characters with disabilities but many of 
 Who are we to throw the word "retard" around? What makes it right for anyone to be able to look at someone with a disabilities and say they are completely different from everyone else in the world? In regards to the media, this is what I want to change: 
 
 ![Ableism-in-Media]( /assets/images/media.jpg)
+
+[image source](https://exposingableism.weebly.com/uploads/4/8/8/7/48872135/5861165_orig.jpg)

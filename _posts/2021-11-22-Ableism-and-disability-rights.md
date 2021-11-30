@@ -15,3 +15,5 @@ The Act lays stress on non-discrimination, full and effective participation and 
 The principle reflects a paradigm shift in thinking about disability from a social welfare concern to a human rights issue. One thing every able-bodied person can do to help combat this form of social discrimination is to educate themselves and others, so the problem becomes more widely understood. Then, it becomes everyone’s duty to think about the ableist implications their actions might have, especially as it relates to social justice initiatives that might overlook disabled populations.
 
 ![ableism-and-disability-rights]( /assets/images/ableism-and-rights.jpg)
+
+[image source](https://i.pinimg.com/originals/0d/8a/e2/0d8ae20c3f5169924bcd1e7d816f7ad4.jpg)

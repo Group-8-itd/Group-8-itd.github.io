@@ -19,3 +19,5 @@ It was the end, that justified the whole movie. When Ruben realizes that he need
 All the characters and their opinions in the movie were justified in their own rights and the movie did a remarkable job in balancing those ideas, estabilishing the concepts of ableism without any propaganda like ideas. Its this mode of enquiry that Disablity Studies tries to estabilish
 
 ![Sound-of-metal]( /assets/images/test.png "Poster: Sound of Metal")
+
+[image source](https://www.bandwagon.asia/articles/riz-ahmed-drama-sound-of-metal-to-be-screened-at-singapore-the-projector-in-april-2021-music-film)
