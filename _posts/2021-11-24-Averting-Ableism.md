@@ -7,13 +7,21 @@ author: "Rudransh Vyas"
 ---
 
 What can we do to recognize and avert ableism?
+
  • Believe people when they disclose a disability
+
  • Similarly, don’t accuse people of ‘faking’ their disability
+
  • Listen to people when they request an accommodation
+
  • Don’t assume you know what someone needs
+
  • Never touch a person with a disability or their mobility equipment without consent
+
  • Keep invasive questions to yourself
+
  • Don’t speak on behalf of someone with a disability unless they explicitly ask you to
+
  • Talk about disability [with children and young people](https://nebula.wsimg.com/07ff3147582a2b7c1dd5404791dc477b?AccessKeyId=9D6F6082FE5EE52C3DC6&disposition=0&alloworigin=1)
 
 ## The R-Word
