@@ -7,7 +7,7 @@ author: "Dhruv Desai"
 ---
 The Bollywood comedy-drama film Chup Chup Ke sheds light on ableism in India’s social systems (Family and marriage). Although it is 15 years old, it still reflects society’s views about people with disabilities today.
 
-We all can learn about living with disabilities. In the film, Shruti is mute so, an “undesirable” bride for an arranged marriage. The family tries to compensate by paying huge sums of dowry despite Shruti not wanting to be a burden on the groom’s family; however, she does not have a say in this. 
+We all can learn about living with disabilities. In the film, Shruti is mute so, an “undesirable” bride for an arranged marriage. The family tries to compensate by paying huge sums of dowry despite Shruti not wanting to be a burden on the groom’s family; however, [she does not have a say in this.](https://www.youtube.com/watch?v=EgwNzPOYWF8) 
 
 People with disabilities should be treated with respect, considered equals, and should have the right to make their own choices. Also, in the huge joint family, only her brother and cousin could interpret sign language. Learning sign language is something we should do to communicate with our mute family members and friends. 
 

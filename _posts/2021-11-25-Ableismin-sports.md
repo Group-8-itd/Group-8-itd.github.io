@@ -19,7 +19,7 @@ In 2015, National Para-Atheltic championship was organized in India which was po
 
 A lot of sporting federations in India do not conduct competitions for para-athletes, leading to even more difficulty in preparing for international competitions and events. 
 
-This distinction is further highlighted by the fact that besides a funding of Rs.765 crores done under Target Olympic Podium Scheme(TOPS) only an addditional Rs.8.2 crores was spent on para-athletes from 2018-19 to 2021-22. In comparison the sports budget for the year 2021 alone was Rs.2,596.14 crores.
+This distinction is further highlighted by the fact that besides a funding of Rs.765 crores done under Target Olympic Podium Scheme(TOPS) only an addditional Rs.8.2 crores was [spent on para-athletes from 2018-19 to 2021-22](https://indianexpress.com/article/sports/sport-others/behind-paralympics-glitter-govt-push-pvt-effort-better-training-7491000/). In comparison the [sports budget for the year 2021](https://www.indiatoday.in/sports/other-sports/story/government-slashes-2021-22-sports-budget-by-rs-230-78-crore-khelo-india-sees-biggest-reduction-1764898-2021-02-01) alone was Rs.2,596.14 crores.
 
 It is clear that a lot more needs to be done in order to bring para-athletes to the same level of training, competition, and accessibility that
 their able-bodied counter-parts enjoy.
@@ -28,4 +28,4 @@ their able-bodied counter-parts enjoy.
 
 [image source](https://indianexpress.com/article/sports/sport-others/meet-indias-19-tokyo-paralympics-medallists-7491756/)
 
-The indian Paralympic contingent at Tokyo-2020
+The Indian Paralympic contingent at Tokyo-2020
