@@ -6,8 +6,6 @@ categories: jekyll update
 author: "Ashwin Olakangal"
 ---
 
-Download the audio file for this post: [Audio file](assets/audio/ableism-in-sports.mp3)
-
 Ableism refers to discrimination and social prejudice against people with disability, this embodies itself in the real world by treatment of able-bodied people as superior in comparison.  Note the careful distinction between ableism and disablism, which refers to having negative opinion of disabled people.
 
 We often hear about the extraordinary efforts that a para-athlete had to go through in order to win a competition, the narrative is focused more on their disability that they had to "overcome" rather than on the efforts that they did to outperform their competition.
@@ -31,3 +29,5 @@ their able-bodied counter-parts enjoy.
 [image source](https://indianexpress.com/article/sports/sport-others/meet-indias-19-tokyo-paralympics-medallists-7491756/)
 
 The Indian Paralympic contingent at Tokyo-2020
+
+Download the audio file for this post: [Audio file](assets/audio/ableism-in-sports.mp3)

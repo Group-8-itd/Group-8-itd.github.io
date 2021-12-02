@@ -13,3 +13,5 @@ This way of using people with disabilities as objects of inspiration is not just
 Stella Young, [in her TED talk](https://www.youtube.com/watch?v=EgwNzPOYWF8), speaks about how disabled people are objectified for the benefit of non-disabled people and that living with a disability is considered to be extraordinary. 
 
 A few other examples of ableism in the formal systems include discriminating against people with disabilities when hiring, choosing an inaccessible venue for a meeting or an event, asking invasive questions about a person’s medical history, using ableist language. You should be inclusive of disabled people by avoiding such ableist acts.
+
+Download the audio file for this post: [Audio file](assets/audio/objectification.mp3)

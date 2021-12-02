@@ -7,7 +7,7 @@ ref: about
 order: 1
 ---
 
-This website is created as a part of undegraduate course on Introduction to Disability Studies taken by Prof. Shilpa Anand.
+This website is created as a part of undegraduate course on Introduction to Disability Studies taken by Prof. Shilpaa Anand.
 We the students of Group 8 had to evolve a social media campaign in order to spread awareness about Ableism and how it affects
 lives of people with disability. 
 

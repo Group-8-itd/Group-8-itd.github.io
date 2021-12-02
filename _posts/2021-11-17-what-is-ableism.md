@@ -29,3 +29,5 @@ Everyone is affected by ableism.
 example, people with psychiatric disabilities such as depression and anxiety.
 
 * Disability Rights are highly intersectional; civil rights issues for women, people of color and LGBTQ+ people are intertwined with disability issues. Disability rights also overlap with issues such as healthcare, education, poverty, and more.
+
+Download the audio file for this post: [Audio file](assets/audio/what-is-ableism.mp3)

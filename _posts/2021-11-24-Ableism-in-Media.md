@@ -15,3 +15,5 @@ Who are we to throw the word "retard" around? What makes it right for anyone to 
 ![Ableism-in-Media]( /assets/images/media.jpg)
 
 [image source](https://exposingableism.weebly.com/uploads/4/8/8/7/48872135/5861165_orig.jpg)
+
+Download the audio file for this post: [Audio file](assets/audio/ableism-in-media.mp3)

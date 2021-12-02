@@ -21,3 +21,5 @@ All the characters and their opinions in the movie were justified in their own r
 ![Sound-of-metal]( /assets/images/test.png "Poster: Sound of Metal")
 
 [image source](https://www.bandwagon.asia/articles/riz-ahmed-drama-sound-of-metal-to-be-screened-at-singapore-the-projector-in-april-2021-music-film)
+
+Download the audio file for this post: [Audio file](assets/audio/som.mp3)

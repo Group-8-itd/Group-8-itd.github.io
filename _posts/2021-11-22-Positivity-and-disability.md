@@ -17,3 +17,5 @@ An autistic child deserves the same empathy and love like any other child. Howev
 ![Positivity-and-disability]( /assets/images/positivity.png)
 
 [image source](https://rehabpub.com/industry-news/research/study-sheds-light-ableism-biases-toward-people-disabilities/)
+
+Download the audio file for this post: [Audio file](assets/audio/positivity-and-disability.mp3)

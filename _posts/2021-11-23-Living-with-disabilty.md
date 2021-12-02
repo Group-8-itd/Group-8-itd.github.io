@@ -17,3 +17,5 @@ The living reality of our society is that it can sometimes be insensitive. It re
 ![living-with-disability]( /assets/images/living-with-disability.jpg)
 
 [image source](https://live-production.wcms.abc-cdn.net.au/c0e46ab5dfbf93237c24793c4805b319?impolicy=wcms_crop_resize&cropH=1069&cropW=1898&xPos=16&yPos=0&width=862&height=485)
+
+Download the audio file for this post: [Audio file](assets/audio/living-with-disability.mp3)
