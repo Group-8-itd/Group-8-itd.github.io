@@ -19,4 +19,4 @@ The film ends with Jeet’s (lead actor) former fiancé wanting him to marry Shr
 
 The image includes a few characters from the film, all with their index finger on their lips, signing to keep quiet.
 
-Download the audio file for this post: [Audio file](assets/audio/chup-chup-ke.mp3)
+Download the audio file for this post: [Audio file](https://github.com/Group-8-itd/Group-8-itd.github.io/blob/master/assets/audio/chup-chup-ke.mp3?raw=true)

@@ -22,4 +22,4 @@ All the characters and their opinions in the movie were justified in their own r
 
 [image source](https://www.bandwagon.asia/articles/riz-ahmed-drama-sound-of-metal-to-be-screened-at-singapore-the-projector-in-april-2021-music-film)
 
-Download the audio file for this post: [Audio file](assets/audio/som.mp3)
+Download the audio file for this post: [Audio file](https://github.com/Group-8-itd/Group-8-itd.github.io/blob/master/assets/audio/som.mp3?raw=true)

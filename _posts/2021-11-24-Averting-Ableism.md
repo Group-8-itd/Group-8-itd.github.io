@@ -35,4 +35,4 @@ To simply remove this word from your vocabulary or to use it very carefully can 
 
 [image source](https://scontent.fbho1-1.fna.fbcdn.net/v/t15.5256-10/s1080x2048/27255872_540012759714470_4342182352521265152_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=ad6a45&_nc_ohc=slVu9tyOztYAX9LhtWl&_nc_ht=scontent.fbho1-1.fna&oh=408f94de5bd1237ac11740b3c8187d87&oe=61AA42EE)
  
-Download the audio file for this post: [Audio file](assets/audio/averting-ableism.mp3)
+Download the audio file for this post: [Audio file](https://github.com/Group-8-itd/Group-8-itd.github.io/blob/master/assets/audio/averting-ableism.mp3?raw=true)

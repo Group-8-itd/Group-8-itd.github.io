@@ -18,4 +18,4 @@ The principle reflects a paradigm shift in thinking about disability from a soci
 
 [image source](https://i.pinimg.com/originals/0d/8a/e2/0d8ae20c3f5169924bcd1e7d816f7ad4.jpg)
 
-Download the audio file for this post: [Audio file](assets/audio/ableism-and-disability-rights.mp3)
+Download the audio file for this post: [Audio file](https://github.com/Group-8-itd/Group-8-itd.github.io/blob/master/assets/audio/ableism-and-disability-rights.mp3?raw=true)

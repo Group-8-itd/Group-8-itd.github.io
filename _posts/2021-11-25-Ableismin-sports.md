@@ -30,4 +30,4 @@ their able-bodied counter-parts enjoy.
 
 The Indian Paralympic contingent at Tokyo-2020
 
-Download the audio file for this post: [Audio file](assets/audio/ableism-in-sports.mp3)
+Download the audio file for this post: [Audio file](https://github.com/Group-8-itd/Group-8-itd.github.io/blob/master/assets/audio/ableism-in-sports.mp3?raw=true)
